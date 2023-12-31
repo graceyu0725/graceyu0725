@@ -8,5 +8,5 @@
 ### Currently Work on <img src="https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif" width="36px">
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=graceyu0725&repo=Colorful-Days&theme=slateorange)](https://github.com/graceyu0725/Colorful-Days)
   
-### Connect me <img src="https://media.giphy.com/media/ZBW6IunPHRvgMeJcc0/giphy.gif" width="36px">
+### Connect with me <img src="https://media.giphy.com/media/ZBW6IunPHRvgMeJcc0/giphy.gif" width="36px">
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/graceyu0725)
