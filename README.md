@@ -1,4 +1,4 @@
-<h2>Hi, I'm Grace <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/></h2>
+<h2>Hi, I'm Grace <img src="https://emojis.slackmojis.com/emojis/images/1643514294/2646/allo-happy.gif?1643514294" width="32"/></h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=987970&random=false&width=450&height=36&lines=A+software+engineer+with+true+passion)](https://git.io/typing-svg)
 
